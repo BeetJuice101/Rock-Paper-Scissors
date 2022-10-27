@@ -1,8 +1,8 @@
 # Rock-Paper-Scissors
-A python rock paper scissors game made with tkinter
 
-This was a three day project I did to learn tkinter.  If you have any advice please do tell me.  Feel free to make your own versions and changes.
-You will need to install tkinter.  
+This was a project to learn GUI in both Python and Java.
+Originally I used this project to learn Python GUI with Tkinter, but know I have made a Java version to learn GUI with Swing.
+This was one of my first projects in Python and Java respectively.
 Happy Coding
 
 -BeetJuice101
